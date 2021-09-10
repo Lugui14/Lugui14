@@ -7,7 +7,7 @@
 
 # TECH
 
-<h3> Estudando: </h3>
+<h3 align='left'> Estudando: </h3>
 
 <img align='left' alt='react' width='50px' src='https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg' />
 
@@ -19,7 +19,7 @@
 
 </br>
 
-<h3> Trabalhando: </h3>
+<h3 align='left'> Trabalhando: </h3>
 
 <img align='left' alt='PHP' width='50px' src="https://upload.wikimedia.org/wikipedia/commons/3/3b/PHP_Logo%2C_text_only.svg" />
 
