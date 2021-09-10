@@ -18,6 +18,7 @@
 <img align='left' alt='JS' width='50px' src="https://img.icons8.com/color/100/000000/javascript.png"/>
 
 </br>
+</br>
 
 <h3 align='left'> Trabalhando: </h3>
 
