@@ -13,7 +13,7 @@
 
 <img align='left' alt='nodejs' width='50px' src="https://img.icons8.com/windows/64/000000/node-js.png"/>
 
-<img align='left' alt='JS' width='50px' src="https://img.icons8.com/color/100/000000/javascript.png"/>
+<img align='left' alt='TS' width='50px' src="https://commons.wikimedia.org/wiki/File:Typescript_logo_2020.svg#/media/File:Typescript_logo_2020.svg"/>
 
 </br>
 </br>
