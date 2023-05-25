@@ -1,7 +1,7 @@
 # Hi there, I'm Luiz 👋
 
 - 🔭 Cursando Ciência da Computação na UFFS
-- 🌱 Estudando Node e React 
+- 🌱 Estagiário na empresa Desbravador Software LTDA
 
 <div>
   <a href="https://github.com/Lugui14">
