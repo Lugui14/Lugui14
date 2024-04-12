@@ -19,6 +19,7 @@
 
 # Estudando
 
+- Web3.0
 - AWS
 - Docker
 - ReactJS
