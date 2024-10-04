@@ -15,7 +15,6 @@
 - C
 - C++
 - PL/SQL
-- Docker
 
 # Estudando
 
