@@ -1,7 +1,7 @@
 # Hi there, I'm Luiz 👋
 
 - 🔭 Cursando Ciência da Computação na UFFS
-- 🌱 Estagiário na empresa Desbravador Software LTDA
+- 🌱 Dev na empresa Desbravador Software LTDA
   
 # Principais Tecnologias
 
