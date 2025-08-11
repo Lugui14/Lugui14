@@ -16,7 +16,7 @@
 
 ## 🧠 Currently Learning
 
-- Distributed Computation
+- Distributed Computing
 - Distributed Systems
 
 ## 📌 Other Skills
@@ -38,4 +38,5 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
 
