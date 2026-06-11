@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Luiz Guilherme!
 
 🎓 Computer Science student at **UFFS**  
-💻 Software Developer at **Desbravador Software LTDA**
+💻 Software Developer at **Softplan**
 
 ## 🚀 Main Technologies
 
